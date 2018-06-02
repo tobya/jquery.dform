@@ -59,6 +59,7 @@ Or to quickly load an external form definition:
 			  this //-> Generated $('#myform')
 			  data //-> data from path/to/form.json
 			});
+		});
 	</script>
 	<form id="myform"></form>
 
@@ -70,7 +71,6 @@ __Demo:__
 __Learn more:__
 
 * Visit the above example [on jsfiddle.com](http://jsfiddle.net/Daff/Zt4Rz/)
-* Visit the [jQuery.dForm Group](http://groups.google.com/group/jquery-dform)
 * Watch and fork the project on [GitHub](http://github.com/daffl/jquery.dform/)
 * Follow [@daffl](http://twitter.com/daffl) on Twitter
 * Read on in this documentation
@@ -763,7 +763,6 @@ support to set up a validate options for validate() in "form" type
 __0.1.3__
 
 * Created some public [JSFiddles for trying the plugin](http://jsfiddle.net/user/Daff/fiddles)
-* Created [jQuery.dForm Google Group](http://groups.google.com/group/jquery-dform)
 * Added *form* type, unified *buildForm* usage
 * Fixed [issue #14](https://github.com/daffl/jquery.dform/issues/closed#issue/14), setting type attribute properly in IE
 * Added *getValueAt*
